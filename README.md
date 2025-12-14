@@ -36,7 +36,8 @@ I created this project while learning **Git, GitHub, and Tailwind CSS**, and dep
 ---
 
 ## 📸 Preview
-(Add screenshot here)
+![WORK from Home hub Screenshot](<img width="1920" height="921" alt="Screenshot 2025-12-14 180524" src="https://github.com/user-attachments/assets/71c36646-3d10-45b3-b93c-fce76389be74" />
+)
 
 ---
 
